@@ -66,6 +66,35 @@ p {
     line-height: 1.4;
 }
 
+.headerContainer {
+  display: flex;
+  flex-wrap: wrap;
+  width: 1500px;
+  justify-content: center; 
+}
+
+.header {
+  border: 2px none white;
+  width: 100%; 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.header a {
+  text-decoration: none; 
+  color: black;
+  margin-right: 75px; 
+}
+
+.headerImg {
+  width: 800px;
+  margin-right: 60px;
+  margin-bottom: 20px;
+}
+
 .container {
     width: 800px;
     margin: 0 auto;
