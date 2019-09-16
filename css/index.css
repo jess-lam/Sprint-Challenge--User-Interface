@@ -214,3 +214,18 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+@media (min-width: 320px) {
+    font-size: 1.25rem;
+    line-height: 2px;
+  }
+  
+  @media (min-width: 768px) {
+    font-size: 1.5rem;
+    line-height: 1px;
+  }
+  
+  @media (min-width: 1224px) {
+    font-size: 2rem;
+    line-height: 1px;
+  }
