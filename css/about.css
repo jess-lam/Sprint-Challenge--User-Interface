@@ -112,4 +112,20 @@ p {
 
 .middle-content {
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
 }
+
+.middle-content .img-container {
+    width: 48%;
+    padding: 0 1%;
+    padding-bottom: 20px;  
+}
+
+.img-container {
+  margin-top: 30px;
+}
+
+.img-box {
+  margin-bottom: 20px;
