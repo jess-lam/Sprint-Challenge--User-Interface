@@ -101,3 +101,15 @@ p {
     width: 800px;
     margin: 0 auto;
 }
+
+.top-content .text-container{
+  border-bottom: 1px dashed black;
+}
+
+.text-container {
+  margin-left: 20px;
+}
+
+.middle-content {
+    display: flex;
+}
